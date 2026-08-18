@@ -1,0 +1,83 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(35, 35, 35);
+    padding: 20px;
+}
+.dov{
+    display: flex;
+    gap: 75px;
+    
+}
+body{
+    background-color: black;
+    color: white;
+}
+.one h1{
+    text-align: center;
+}
+.onediv{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;
+    gap:100px
+}
+.onediv p{
+    font-size: 20px;
+}
+.twodiv img{
+    height: 300px;
+    width: 400px;
+}
+.twodiv{
+    display:flex;
+    justify-content: space-evenly;
+}
+.onediv img{
+    height: 250px;
+    width: 300px;
+
+}
+.onediv{
+    padding: 50px;
+}
+.twoone img{
+    height: 300px;
+    width: 400px;
+}
+.two h1{
+    text-align: center;
+    padding-top: 50px;
+}
+.twoone{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px;
+}
+.twoone p{
+    width: 500px;
+    font-size: 20px;
+    
+}
+.twotwo{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.twotwo li{
+    font-size: 20px;
+}
+.twotwo img{
+    height: 300px;
+    width: 300px;
+}
+a{
+    color: white;
+}
+
